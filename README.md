@@ -1,0 +1,1 @@
+# bloomreach-content-middleware
